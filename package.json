@@ -1,3 +1,6 @@
 {
-	"name": "@vdegenne-internal/import-test"
+	"name": "@vdegenne-internal/import-test",
+	"devDependencies": {
+		"lit": "^3.1.0"
+	}
 }
